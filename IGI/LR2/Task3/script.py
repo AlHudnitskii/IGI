@@ -4,6 +4,6 @@ from geometric_lib import square
 a = 10
 
 print('Circle area: ', circle.area(a),
-      '\nCircle perimetr: ', circle.perimetr(a),
+      '\nCircle perimeter: ', circle.perimeter(a),
       '\nSquare area: ', square.area(a),
-      '\nSquare perimetr: ', square.perimetr(a))
+      '\nSquare perimeter: ', square.perimeter(a))
